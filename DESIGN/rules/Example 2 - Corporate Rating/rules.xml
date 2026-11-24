@@ -1,0 +1,20 @@
+<project>
+    <dependencies>
+        <dependency>
+            <name>Example 3 - Auto Policy Calculation</name>
+        </dependency>
+        <dependency>
+            <name>Example 3111</name>
+        </dependency>
+        <dependency>
+            <name>module_ALL</name>
+        </dependency>
+        <dependency>
+            <name>Sample Project</name>
+        </dependency>
+        <dependency>
+            <name>Tutorial 4 - Introduction to Column Match Tables</name>
+        </dependency>
+    </dependencies>
+    <name>Example 2 - Corporate Rating</name>
+</project>
